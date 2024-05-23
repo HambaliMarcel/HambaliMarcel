@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, Landlubbers!
 
-<!--
-**HambaliMarcel/HambaliMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Marcel. I’m focused on IT Management, Project Management, ERP, and AI. From hands-on code optimisation to strategic system architecture, I actively engage with clients and internal teams to ensure smooth operations.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploring advanced data mining models for real-world applications.
+- Enhancing enterprise cloud infrastructure and integration pipelines.
+- Actively creating innovation as a Business Solution.
+
+## 📫 Hit me on
+
+- **Email**: marcelinohambali@gmail.com
