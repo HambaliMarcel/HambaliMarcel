@@ -12,6 +12,6 @@ This is Marcel. I’m focused on IT Management, Project Management, ERP, and AI.
 
 - **Email**: marcelinohambali@gmail.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HambaliMarcel&show_icons=true&theme=radical&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HambaliMarcel&show_icons=true&theme=transparent&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HambaliMarcel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HambaliMarcel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
