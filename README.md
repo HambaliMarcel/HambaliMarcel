@@ -18,4 +18,4 @@ Basically, I help cool companies level up their tech game and not get lost in th
 
 Let's link up: **marcelinohambali@gmail.com**
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HambaliMarcel&show_icons=true&theme=dark&hide=prs,issues,contribs&show=reviews&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HambaliMarcel&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![HambaliMarcel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HambaliMarcel&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&bg_color=00000000&hide=issues,contribs&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HambaliMarcel&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
