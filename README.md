@@ -1,6 +1,6 @@
 ### 🤙 What's good? I'm Marcel.
 
-I'm your go-to guy for the future of tech. My whole vibe is mixing super-smart **Agentic AI** 🤖, mind-bending **Quantum** stuff ⚛️, and next-level **Cybersecurity** 🛡️.
+I'm your go-to guy for the future of tech. My whole vibe is mixing super-smart **Agentic AI** , mind-bending **Quantum** stuff, and next-level **Cybersecurity**.
 
 Basically, I help cool companies level up their tech game and not get lost in the hype.
 
